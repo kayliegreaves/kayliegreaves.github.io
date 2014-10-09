@@ -11,3 +11,6 @@ body {
 	color: #fff;
 	text-align: center;
 }
+.signup-form input {
+	color: #000;
+}
